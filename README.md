@@ -16,7 +16,7 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 javascript
 
-contract BikeFuel {
+contract ETHONN {
     // Public variables to store token details
     string public name = "ETHONN";
     string public symbol = "ETO";
